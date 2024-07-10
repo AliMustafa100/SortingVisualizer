@@ -15,4 +15,4 @@ This project visualizes the selection sort algorithm using Pygame. It provides a
 
    ```sh
    pip3 install pygame
-# SortingVisualizer
+
